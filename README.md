@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hyojin2689
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning Data Visualization & Unstructured Data Analysis
+- 🌱 I’m currently learning Data Visualization & Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me h0103j@gmail.com
 
